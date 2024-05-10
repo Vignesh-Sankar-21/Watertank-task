@@ -24,7 +24,7 @@
     border: 2px solid black;
     margin-top: 55px;
     margin-left: 0px;
-    background-color: pink;
+    background-color: black;
 
 }
 
@@ -35,41 +35,20 @@
     position: relative;
     top: 55px;
     left: 230px;
-    background-color: brown;
+    background-color: gold;
     border-radius: 10px 10px 0px 0px;
 }
 .tapHole{
     height: 60px;
     width: 20px;
-    background-color: rgb(255, 38, 0);
+    background-color: blue;
     position: relative;
     top: 425px;
     left: 200px;
-    /* border-radius: 0px 0px 10px 10px; */
-}
-.tub{
-    height: 100px;
-    width: 200px;
-    border: 2px solid black;
-    border-radius: 0px 0px 40px 40px;
-    /* margin-top: 110px; */
-    margin-left: 1060px;
-    
-    overflow: hidden;
-    background-color: rgb(40, 197, 249);
-}
-#tub1{
-    height: 97px;
-    width: 197px;
-    border: 2px solid black;
-    /* border-radius: 0px 0px 40px 40px; */
-    overflow: hidden;
-    background-color: rgb(255, 255, 255);
 }
 .water{
     width: 20px;
     height: 190px;
-    /* border: 1px solid black; */
     margin-left: 250px;
     background-color: rgb(40, 197, 249);
     margin-top: 20px;
